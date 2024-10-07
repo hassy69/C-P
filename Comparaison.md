@@ -17,7 +17,7 @@
 ## 4. Boucles et structures de contrôle
 
 - **Délimitation des blocs** : En C, les blocs de code sont délimités par des accolades `{}`, tandis qu'en Python, l'indentation est utilisée pour structurer le code.
-- **Boucles et conditions** : Les deux langages supportent les boucles `for`, `while` et les structures conditionnelles `if`, mais Python est plus simple et lisible grâce à son indentation stricte (switch en C plus complexe que if-elif en Python).
+- **Boucles et conditions** : Les deux langages supportent les boucles `for`, `while` et les structures conditionnelles `if`, mais Python est plus simple et lisible grâce à son indentation stricte (switch en C plus complexe que if-elif en Python). Cependant, les structures de contrôle en C bien que plus complexe qu'en Python, restent plus précis.
 
 ## 5. Conversion et formatage
 
